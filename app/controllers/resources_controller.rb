@@ -54,6 +54,7 @@ class ResourcesController < ApplicationController
     end
 
     def resource_params
-      params.require(:resource).permit(:, :except, :[, :)
+      # params.require(:resource).permit(:, :except, :[, :)
+      params.require(:resource)
     end
 end
