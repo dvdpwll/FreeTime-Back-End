@@ -3,6 +3,12 @@
 This is the back-end for the FreeTime app. This keeps track of schedules in the
 following fields: title, day, start, end.
 
+## Links
+
+[FreeTime-Front-End Github](https://github.com/dvdpwll/FreeTime-Front-End)
+[Deployed FreeTime-Front-End](https://dvdpwll.github.io/FreeTime-Front-End/)
+[Deployed FreeTime-Back-End](https://fathomless-coast-53196.herokuapp.com/)
+
 ### Authentication
 
 | Verb   | URI Pattern            | Controller#Action |
