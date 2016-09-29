@@ -6,7 +6,9 @@ following fields: title, day, start, end.
 ## Links
 
 [FreeTime-Front-End Github](https://github.com/dvdpwll/FreeTime-Front-End)
+
 [Deployed FreeTime-Front-End](https://dvdpwll.github.io/FreeTime-Front-End/)
+
 [Deployed FreeTime-Back-End](https://fathomless-coast-53196.herokuapp.com/)
 
 ### Authentication
